@@ -41,6 +41,7 @@ class Simplexer:
                 'STRING',
                 'NEWLINE',
                 'NUMBER',
+                'ID',
         )
 
         t_TAB          = r'\t'
